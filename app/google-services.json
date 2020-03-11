@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905776826665",
+    "firebase_url": "https://rpgapp-1f2d4.firebaseio.com",
+    "project_id": "rpgapp-1f2d4",
+    "storage_bucket": "rpgapp-1f2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905776826665:android:b06184f2174e9f6b028f38",
+        "android_client_info": {
+          "package_name": "com.example.rpgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905776826665-obji0g945hunkmh15trpv0aid0053c5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoGctLx3aNaWygPJXjUwxVrGhKjliLJvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905776826665-obji0g945hunkmh15trpv0aid0053c5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
